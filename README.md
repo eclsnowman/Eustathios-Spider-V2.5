@@ -30,11 +30,11 @@ Documentation:
 
 BOM = https://github.com/eclsnowman/Eustathios-Spider-V2.5/raw/master/BOM/ES25%20BOM.xlsx
 
-Printable STL Parts = To Be Uploaded
+Printable STL Parts = https://github.com/eclsnowman/Eustathios-Spider-V2.5/tree/master/3D%20Models/STL
 
 Solidworks Files = https://github.com/eclsnowman/Eustathios-Spider-V2.5/tree/master/3D%20Models/Solidworks
 
-Other 3D model formats in 7zip due to github 50mb limit) = https://github.com/eclsnowman/Eustathios-Spider-V2.5/tree/master/3D%20Models
+Other 3D model formats in zip due to github file size limit) = https://github.com/eclsnowman/Eustathios-Spider-V2.5/tree/master/3D%20Models
 
 3D renders: https://github.com/eclsnowman/Eustathios-Spider-V2.5/tree/master/Images
 
