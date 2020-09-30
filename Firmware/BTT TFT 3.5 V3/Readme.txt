@@ -1,0 +1,1 @@
+Put all the contents of this folder onto a SD card formatted as fat32 and insert it into the BTT TFT35 V3. Then reboot the printer. The files and configuration will update on reboot.
