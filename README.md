@@ -44,6 +44,8 @@ Solidworks Files = https://github.com/eclsnowman/Eustathios-Spider-V2.5/tree/mas
 
 Other 3D model formats in zip due to github file size limit) = https://github.com/eclsnowman/Eustathios-Spider-V2.5/tree/master/3D%20Models
 
+Onshape Link: https://cad.onshape.com/documents/dcaaf87ad04323c8f9846c66/w/0537fe6b9eb1e2bc47668a76/e/4ce5ea03b6ef98527d9025d3
+
 3D renders: https://github.com/eclsnowman/Eustathios-Spider-V2.5/tree/master/Images
 
 Image of printed parts:
